@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="983fccea-321d-4679-a641-b03624b52502" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/api/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/api/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/api/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/api/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/api/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/api/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/travel_agency/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/travel_agency/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/travel_agency/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/travel_agency/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/travel_agency/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/travel_agency/templates/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/travel_agency/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/travel_agency/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/travelagencyAustralie.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LpVMPY4f6TvFOZYWJnepi5wCw8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="983fccea-321d-4679-a641-b03624b52502" name="Changes" comment="" />
+      <created>1676567962818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676567962818</updated>
+      <workItem from="1676567964669" duration="3155000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
