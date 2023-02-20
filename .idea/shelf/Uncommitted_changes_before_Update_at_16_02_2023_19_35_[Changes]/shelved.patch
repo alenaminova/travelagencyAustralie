@@ -1,0 +1,237 @@
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_16_02_2023_19_25__Changes_.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_16_02_2023_19_25__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_16_02_2023_19_25__Changes_.xml
+new file mode 100644
+--- /dev/null	(date 1676571925023)
++++ b/.idea/shelf/Uncommitted_changes_before_Update_at_16_02_2023_19_25__Changes_.xml	(date 1676571925023)
+@@ -0,0 +1,4 @@
++<changelist name="Uncommitted_changes_before_Update_at_16_02_2023_19_25_[Changes]" date="1676571922711" recycled="false" toDelete="true">
++  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_02_2023_19_25_[Changes]/shelved.patch" />
++  <option name="DESCRIPTION" value="Uncommitted changes before Update at 16.02.2023 19:25 [Changes]" />
++</changelist>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"983fccea-321d-4679-a641-b03624b52502\" name=\"Changes\" comment=\"\">\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/api/__init__.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/api/admin.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/api/apps.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/api/migrations/__init__.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/api/models.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/api/tests.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/api/views.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/db.sqlite3\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/travel_agency/__init__.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/travel_agency/admin.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/travel_agency/apps.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/travel_agency/migrations/__init__.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/travel_agency/models.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/travel_agency/templates/urls.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/travel_agency/tests.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/travel_agency/views.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/.gitignore\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/misc.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/modules.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/travelagencyAustralie.iml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/vcs.xml\" beforeDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Python Script\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2LpVMPY4f6TvFOZYWJnepi5wCw8\" />\n  <component name=\"ProjectLevelVcsManager\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"ASKED_ADD_EXTERNAL_FILES\": \"true\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"WebServerToolWindowFactoryState\": \"false\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"983fccea-321d-4679-a641-b03624b52502\" name=\"Changes\" comment=\"\" />\n      <created>1676567962818</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1676567962818</updated>\n      <workItem from=\"1676567964669\" duration=\"3155000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 061ccb000f96d501404cfcde8e4830089305fe8c)
++++ b/.idea/workspace.xml	(date 1676572173121)
+@@ -4,30 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="983fccea-321d-4679-a641-b03624b52502" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/api/__init__.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/api/admin.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/api/apps.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/api/migrations/__init__.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/api/models.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/api/tests.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/api/views.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/db.sqlite3" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/travel_agency/__init__.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/travel_agency/admin.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/travel_agency/apps.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/travel_agency/migrations/__init__.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/travel_agency/models.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/travel_agency/templates/urls.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/travel_agency/tests.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/travel_agency/views.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/travelagencyAustralie.iml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+-    </list>
++    <list default="true" id="983fccea-321d-4679-a641-b03624b52502" name="Changes" comment="init" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -53,6 +30,7 @@
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
++    <option name="showMembers" value="true" />
+   </component>
+   <component name="PropertiesComponent"><![CDATA[{
+   "keyToString": {
+@@ -64,6 +42,7 @@
+     "node.js.detected.package.tslint": "true",
+     "node.js.selected.package.eslint": "(autodetect)",
+     "node.js.selected.package.tslint": "(autodetect)",
++    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+     "vue.rearranger.settings.migration": "true"
+   }
+ }]]></component>
+@@ -75,8 +54,19 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1676567962818</updated>
+-      <workItem from="1676567964669" duration="3155000" />
++      <workItem from="1676567964669" duration="3345000" />
++      <workItem from="1676571320122" duration="148000" />
++      <workItem from="1676571474177" duration="268000" />
++      <workItem from="1676571780505" duration="392000" />
+     </task>
++    <task id="LOCAL-00001" summary="init">
++      <created>1676571219076</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1676571219076</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -84,5 +74,7 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
++    <MESSAGE value="init" />
++    <option name="LAST_COMMIT_MESSAGE" value="init" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_16_02_2023_19_25_[Changes]/shelved.patch
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_16_02_2023_19_25_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_16_02_2023_19_25_[Changes]/shelved.patch
+new file mode 100644
+--- /dev/null	(date 1676571922706)
++++ b/.idea/shelf/Uncommitted_changes_before_Update_at_16_02_2023_19_25_[Changes]/shelved.patch	(date 1676571922706)
+@@ -0,0 +1,124 @@
++Index: .idea/.gitignore
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/.idea/.gitignore b/.idea/.gitignore
++new file mode 100644
++--- /dev/null	(date 1676571237897)
+++++ b/.idea/.gitignore	(date 1676571237897)
++@@ -0,0 +1,8 @@
+++# Default ignored files
+++/shelf/
+++/workspace.xml
+++# Editor-based HTTP Client requests
+++/httpRequests/
+++# Datasource local storage ignored files
+++/dataSources/
+++/dataSources.local.xml
++Index: .idea/travelagencyAustralie.iml
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
++<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<module type=\"PYTHON_MODULE\" version=\"4\">\n  <component name=\"NewModuleRootManager\">\n    <content url=\"file://$MODULE_DIR$\">\n      <excludeFolder url=\"file://$MODULE_DIR$/venv\" />\n    </content>\n    <orderEntry type=\"inheritedJdk\" />\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\n  </component>\n</module>
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/.idea/travelagencyAustralie.iml b/.idea/travelagencyAustralie.iml
++--- a/.idea/travelagencyAustralie.iml	(revision 061ccb000f96d501404cfcde8e4830089305fe8c)
+++++ b/.idea/travelagencyAustralie.iml	(date 1676571237897)
++@@ -1,9 +1,13 @@
++ <?xml version="1.0" encoding="UTF-8"?>
++ <module type="PYTHON_MODULE" version="4">
++   <component name="NewModuleRootManager">
+++<<<<<<< HEAD
++     <content url="file://$MODULE_DIR$">
++       <excludeFolder url="file://$MODULE_DIR$/venv" />
++     </content>
+++=======
+++    <content url="file://$MODULE_DIR$" />
+++>>>>>>> origin/main
++     <orderEntry type="inheritedJdk" />
++     <orderEntry type="sourceFolder" forTests="false" />
++   </component>
++Index: .idea/workspace.xml
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
++<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"983fccea-321d-4679-a641-b03624b52502\" name=\"Changes\" comment=\"\">\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/api/__init__.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/api/admin.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/api/apps.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/api/migrations/__init__.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/api/models.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/api/tests.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/api/views.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/db.sqlite3\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/travel_agency/__init__.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/travel_agency/admin.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/travel_agency/apps.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/travel_agency/migrations/__init__.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/travel_agency/models.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/travel_agency/templates/urls.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/travel_agency/tests.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/travel_agency_Australie/travel_agency/views.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/.gitignore\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/misc.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/modules.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/travelagencyAustralie.iml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/vcs.xml\" beforeDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Python Script\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2LpVMPY4f6TvFOZYWJnepi5wCw8\" />\n  <component name=\"ProjectLevelVcsManager\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"ASKED_ADD_EXTERNAL_FILES\": \"true\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"WebServerToolWindowFactoryState\": \"false\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"983fccea-321d-4679-a641-b03624b52502\" name=\"Changes\" comment=\"\" />\n      <created>1676567962818</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1676567962818</updated>\n      <workItem from=\"1676567964669\" duration=\"3155000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\n  </component>\n</project>
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/.idea/workspace.xml b/.idea/workspace.xml
++--- a/.idea/workspace.xml	(revision 061ccb000f96d501404cfcde8e4830089305fe8c)
+++++ b/.idea/workspace.xml	(date 1676571870492)
++@@ -4,29 +4,10 @@
++     <option name="autoReloadType" value="SELECTIVE" />
++   </component>
++   <component name="ChangeListManager">
++-    <list default="true" id="983fccea-321d-4679-a641-b03624b52502" name="Changes" comment="">
++-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/api/__init__.py" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/api/admin.py" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/api/apps.py" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/api/migrations/__init__.py" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/api/models.py" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/api/tests.py" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/api/views.py" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/db.sqlite3" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/travel_agency/__init__.py" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/travel_agency/admin.py" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/travel_agency/apps.py" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/travel_agency/migrations/__init__.py" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/travel_agency/models.py" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/travel_agency/templates/urls.py" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/travel_agency/tests.py" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/travel_agency_Australie/travel_agency/views.py" afterDir="false" />
++-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
++-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
++-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
++-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
++-      <change beforePath="$PROJECT_DIR$/.idea/travelagencyAustralie.iml" beforeDir="false" />
++-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+++    <list default="true" id="983fccea-321d-4679-a641-b03624b52502" name="Changes" comment="init">
+++      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+++      <change beforePath="$PROJECT_DIR$/.idea/travelagencyAustralie.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/travelagencyAustralie.iml" afterDir="false" />
+++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++     </list>
++     <option name="SHOW_DIALOG" value="false" />
++     <option name="HIGHLIGHT_CONFLICTS" value="true" />
++@@ -64,6 +45,7 @@
++     "node.js.detected.package.tslint": "true",
++     "node.js.selected.package.eslint": "(autodetect)",
++     "node.js.selected.package.tslint": "(autodetect)",
+++    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
++     "vue.rearranger.settings.migration": "true"
++   }
++ }]]></component>
++@@ -75,8 +57,19 @@
++       <option name="number" value="Default" />
++       <option name="presentableId" value="Default" />
++       <updated>1676567962818</updated>
++-      <workItem from="1676567964669" duration="3155000" />
+++      <workItem from="1676567964669" duration="3345000" />
+++      <workItem from="1676571320122" duration="148000" />
+++      <workItem from="1676571474177" duration="268000" />
+++      <workItem from="1676571780505" duration="90000" />
++     </task>
+++    <task id="LOCAL-00001" summary="init">
+++      <created>1676571219076</created>
+++      <option name="number" value="00001" />
+++      <option name="presentableId" value="LOCAL-00001" />
+++      <option name="project" value="LOCAL" />
+++      <updated>1676571219076</updated>
+++    </task>
+++    <option name="localTasksCounter" value="2" />
++     <servers />
++   </component>
++   <component name="TypeScriptGeneratedFilesManager">
++@@ -84,5 +77,7 @@
++   </component>
++   <component name="VcsManagerConfiguration">
++     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+++    <MESSAGE value="init" />
+++    <option name="LAST_COMMIT_MESSAGE" value="init" />
++   </component>
++ </project>
++\ No newline at end of file
