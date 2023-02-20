@@ -10,21 +10,21 @@ from rest_framework.parsers import JSONParser
 from rest_framework import generics
 from rest_framework import mixins
 
-from viewer.models import Movie
+from viewer.models import travel_agency_Australie
 
-from api.serializers import MovieSerializer
+from api.serializers import travel_agency_AustralieSerializer
 
 # Create your views here
 """
-class Movies(viewsets.ModelViewSet):
-    queryset = Movie.objects.all()
-    serializer_class = MovieSerializer
+class travel_agency_Australie (viewsets.ModelViewSet):
+    queryset = .objects.all()
+    serializer_class = travel_agency_AustralieSerializer
     permission_classes = [permissions.IsAuthenticated]
 """""
 
-class Movies(mixins.ListModelMixin, mixins.CreateModelMixin, generics.GenericAPIView):
-    queryset = Movie.objects.all()
-    serializer_class = MovieSerializer
+class travel_agency_Australie(mixins.ListModelMixin, mixins.CreateModelMixin, generics.GenericAPIView):
+    queryset = travel_agency_Australie.objects.all()
+    serializer_class = travel_agency_AustralieSerializer
 
     def get(self, request, *args, **kwargs):
         return self.list(request, *args, **kwargs)
@@ -33,10 +33,10 @@ class Movies(mixins.ListModelMixin, mixins.CreateModelMixin, generics.GenericAPI
         return self.create(request, *args, **kwargs)
 
 
-class Movie(mixins.RetrieveModelMixin, mixins.UpdateModelMixin, mixins.DestroyModelMixin,
+class travel_agency_Australie (mixins.RetrieveModelMixin, mixins.UpdateModelMixin, mixins.DestroyModelMixin,
             generics.GenericAPIView):
-    queryset = Movie.objects.all()
-    serializer_class = MovieSerializer
+    queryset = travel_agency_Australie.objects.all()
+    serializer_class = travel_agency_AustralieSerializer
 
     def get(self, request, *args, **kwargs):
         return self.retrieve(request, *args, **kwargs)
