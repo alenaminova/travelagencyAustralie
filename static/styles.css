@@ -1,0 +1,23 @@
+body {
+    background-color: lightblue;
+}
+
+nav {
+    width: 180px;
+    height: 800px;
+    background-color: #ccffcc;
+    float: left;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nava li {
+    display: inline-block;
+}
+
+.last-itema {
+    float: right;
+    margin-right: 40px;
+}
